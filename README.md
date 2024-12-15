@@ -1,38 +1,38 @@
-<h1 align="center" id="title">NextJS Firebase Stripe Clerk - Google Drive Clone Project</h1>
+# Ninja Drive - Google Drive Clone with NextJS, Firebase, Stripe, and Clerk
 
-<p align="center"><img src="https://media.graphassets.com/u1mIG68sT6Gz79zhMurn" alt="project-image"></p>
+![Ninja Drive Project Image](https://media.graphassets.com/u1mIG68sT6Gz79zhMurn)
 
-<p id="description">Embark on an exciting journey of building a Google Drive clone with the Next.js framework Firebase for backend functionality Stripe for payment integration and Clerk for authentication. This comprehensive course is designed for web developers eager to enhance their skills by creating a feature-rich cloud storage application that mirrors the functionality of Google Drive.</p>
+Embark on a journey to build your own Google Drive clone with **Next.js** as the front-end framework, **Firebase** for backend functionality, **Stripe** for secure payment integration, and **Clerk** for authentication. This project is designed for developers eager to enhance their skills while creating a powerful cloud storage application.
 
-<h2>🚀 Demo</h2>
+## 🚀 Demo
 
-[https://drive.sammi.ac](https://drive.sammi.ac)
+[https://drive.ninja.com](https://drive.ninja.com)
 
-<h2>🧐 Features</h2>
+## 🧐 Features
 
-Here're some of the project's best features:
+Here are the standout features of **Ninja Drive**:
 
-- Stripe Integration
-- Clerk Authentication
-- Firebase Backend
-- Light and Dark mode 🌓
-- List rename delete drag & drop reorder and copy
-- Stripe subscription for each organization to unlock unlimited boards
-- Zustand state management
-- Detail-oriented effects and animations using TailwindCSS
-- Environment Typescript NextJS Setup
+- **Stripe Integration** for payments
+- **Clerk Authentication** for secure logins
+- **Firebase Backend** for real-time data management
+- **Light and Dark mode** 🌓 for theme switching
+- List management: rename, delete, drag & drop, reorder, and copy
+- **Stripe Subscription** to unlock unlimited storage for organizations
+- **Zustand** for efficient state management
+- Detail-oriented effects and animations using **TailwindCSS**
+- Setup with **TypeScript** and **NextJS** app routes for smooth performance
 
-<h2>🛠️ Installation Steps:</h2>
+## 🛠️ Installation Steps:
 
-<p>1. Install packages</p>
+1. Install the required packages:
 
-```
+```bash
 npm install & yarn install
 ```
 
-<p>2. Setup .env file</p>
+2. Setup your `.env` file with the following environment variables:
 
-```
+```bash
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
@@ -44,21 +44,23 @@ NEXT_PUBLIC_STRIPE_SECRET_KEY=
 NEXT_PUBLIC_DOMAIN=
 ```
 
-<p>3. Start the app</p>
+3. Start the app:
 
-```
+```bash
 npm run dev & yarn dev
 ```
 
-<h2>💻 Built with</h2>
+## 💻 Built with
 
 Technologies used in the project:
 
-- ReactJS
-- NextJS app routes
-- NodeJS
-- TailwindCSS
-- ShadcnUI
-- Clerk
-- Stripe
-- TypeScript
+- **ReactJS**
+- **NextJS** with app routes
+- **NodeJS**
+- **TailwindCSS**
+- **ShadcnUI**
+- **Clerk** for authentication
+- **Stripe** for payment processing
+- **TypeScript** for type safety
+- **Firebase** for backend functionality
+- **Zustand** for state management
