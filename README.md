@@ -1,7 +1,5 @@
 # Ninja Drive - Google Drive Clone with NextJS, Firebase, Stripe, and Clerk
 
-![Ninja Drive Project Image](https://media.graphassets.com/u1mIG68sT6Gz79zhMurn)
-
 Embark on a journey to build your own Google Drive clone with **Next.js** as the front-end framework, **Firebase** for backend functionality, **Stripe** for secure payment integration, and **Clerk** for authentication. This project is designed for developers eager to enhance their skills while creating a powerful cloud storage application.
 
 ## 🚀 Demo
